@@ -2,7 +2,7 @@
 
 工作经历：
 - CVTE 前端工程师（2022.09 - 至今 ） 
-B/G端管理系统 React、WebRTC、低代码、Web3D(babylon.js)、Electron
+B/G端管理系统、React、WebRTC、低代码、Web3D(babylon.js)、Electron
 
 - 百度 前端实习生（2022.03 - 2022.07 ）
 B端舆情系统、Vue、微前端
