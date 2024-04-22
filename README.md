@@ -1,14 +1,13 @@
 ## 你好，我是陈源鑫，一名坚持终生学习的互联网从业者。
-
 工作经历：
 - CVTE 前端工程师（2022.09 - 至今 ） 
-B/G端管理系统、React、WebRTC、低代码、Web3D(babylon.js)、Electron
+Web、H5、PC：React、WebRTC、低代码、Web3D(babylon.js)、Electron
 
 - 百度 前端实习生（2022.03 - 2022.07 ）
-B端舆情系统、Vue、微前端
+Web、H5：Vue、微前端
 
 - 汇量科技 前端实习生 （ 2021.11 - 2022.03 ）
-2D可玩素材低代码平台、Vue
+Web：Vue、低代码
 
 联系方式📮：axin_email_chen@163.com
 
