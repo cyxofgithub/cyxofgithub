@@ -18,10 +18,10 @@ Web：Vue、低代码
 同时我也会将一些文章发表在[掘金](https://juejin.cn/user/1636525352423527/posts)，欢迎关注我噢！
 
 📚 学习笔记
-- [Electron教程](https://github.com/cyxofgithub/electron-tutorials)
-- [前端学习RabbitMQ](https://github.com/cyxofgithub/rabbitMQ-tutorials)
+- [个人学习历程完整笔记](https://github.com/cyxofgithub/front-end-self-study)
 - [实现一个迷你版微前端框架](https://github.com/cyxofgithub/mini-lowcode)
-- [前端学习完整笔记](https://github.com/cyxofgithub/front-end-self-study)
+- [Electron教程](https://github.com/cyxofgithub/electron-tutorials)
+- [RabbitMQ教程](https://github.com/cyxofgithub/rabbitMQ-tutorials)
 
 📖 个人文章
 - [《从0到1搭建低代码平台-编辑拖拽实现》](https://juejin.cn/post/7319297259643764770)
