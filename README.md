@@ -18,7 +18,7 @@ Web：Vue、低代码
 同时我也会将一些文章发表在[掘金](https://juejin.cn/user/1636525352423527/posts)，欢迎关注我噢！
 
 📚 学习笔记
-- [个人学习历程完整笔记](https://github.com/cyxofgithub/front-end-self-study)
+- [个人前端学习路线完整笔记](https://github.com/cyxofgithub/front-end-self-study)
 - [实现一个迷你版微前端框架](https://github.com/cyxofgithub/mini-lowcode)
 - [Electron教程](https://github.com/cyxofgithub/electron-tutorials)
 - [RabbitMQ教程](https://github.com/cyxofgithub/rabbitMQ-tutorials)
