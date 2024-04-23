@@ -19,7 +19,8 @@ Web：Vue、低代码
 
 📚 学习笔记
 - [个人前端学习路线完整笔记](https://github.com/cyxofgithub/front-end-self-study)
-- [实现一个迷你版微前端框架](https://github.com/cyxofgithub/mini-lowcode)
+- [从0到1搭建微前端框架](https://github.com/cyxofgithub/mini-micro-app)
+- [从0到1搭建低代码平台](https://github.com/cyxofgithub/mini-lowcode)
 - [Electron教程](https://github.com/cyxofgithub/electron-tutorials)
 - [RabbitMQ教程](https://github.com/cyxofgithub/rabbitMQ-tutorials)
 
