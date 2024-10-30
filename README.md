@@ -1,7 +1,7 @@
 ## 你好，我是陈源鑫，一名坚持终生学习的互联网从业者。
 工作经历：
 - CVTE 前端工程师（2022.09 - 至今 ） 
-Web、H5、PC：React、WebRTC、低代码、Web3D(babylon.js)、Electron
+Web、H5、PC：React、WebRTC、低代码
 
 - 百度 前端实习生（2022.03 - 2022.07 ）
 Web、H5：Vue、微前端
