@@ -6,7 +6,7 @@ Web、H5、PC：React、WebRTC、低代码、Web3D(babylon.js)、Electron
 - 百度 前端实习生（2022.03 - 2022.07 ）
 Web、H5：Vue、微前端
 
-- 汇量科技 前端实习生 （ 2021.11 - 2022.03 ）
+- 汇量科技 前端实习生 （ 2021.11 - 2022.02 ）
 Web：Vue、低代码
 
 联系方式📮：axin_email_chen@163.com
